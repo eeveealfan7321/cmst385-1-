@@ -2,8 +2,25 @@ body {
   background-color: powderblue;
 }
 h1 {
-  color: blue;
+  color: white;
+  font-family: verdana;
+  font-size:100%
+}
+h2 {
+  color: grey;
+  font-family: verdana;
+  font-size: 100%
 }
 p {
   color: red;
 }
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+  .steps {
+  background-color: grey;
+  color: white;
+  padding: 10px;
+ 
