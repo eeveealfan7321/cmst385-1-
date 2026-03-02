@@ -1,1 +1,53 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color:white;
+  fontfamily: verdana;
+  fontsize: 160%;
+h2 {
+  color:white;
+  fontfamily: verdana;
+  font-size: 120%;
+}
+p {
+  color: red;
+  font-family: verdana;
+  font-size: 100%;
+}
+.packages {
+  background-color: powderblue;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  /* styles.css */
+.content-container {
+    width: 80%; /* Sets the width of the container */
+    margin: 0 auto; /* Centers the container horizontally */
+    background-color: #f0f0f0; /* Adds a light gray background */
+    padding: 20px; /* Adds space between the content and the border */
+    border: 1px solid #ccc; /* Adds a thin border */
+    border-radius: 5px; /* Rounds the corners of the border */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
 
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
