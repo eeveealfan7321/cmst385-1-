@@ -5,22 +5,24 @@ p {
   color: red;
 }
 h1 {
+  background-color: lightblue;
   color: white;
   font-family: verdana;
   font-size:100%
 }
 h2 {
+  background-color: grey;
   color: grey;
   font-family: verdana;
   font-size: 100%
 }
-myHeader {
+#myHeader {
   background-color: lightblue;
   color: black;
   padding: 40px;
   text-align: center;
 }
-steps {
+.steps {
   background-color: grey;
   color: white;
   padding: 10px;
