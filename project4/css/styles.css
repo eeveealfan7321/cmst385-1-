@@ -3,6 +3,7 @@ body {
 }
 p {
   color: red;
+}
 h1 {
   color: white;
   font-family: verdana;
@@ -18,8 +19,9 @@ h2 {
   color: black;
   padding: 40px;
   text-align: center;
+}
 .steps {
   background-color: grey;
   color: white;
   padding: 10px;
- 
+}
